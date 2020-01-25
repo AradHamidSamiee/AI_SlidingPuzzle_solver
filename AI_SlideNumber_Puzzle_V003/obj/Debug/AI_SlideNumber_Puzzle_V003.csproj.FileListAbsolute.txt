@@ -1,0 +1,9 @@
+D:\Projects Courses\AI\AI_SlideNumber_Puzzle_V003\AI_SlideNumber_Puzzle_V003\bin\Debug\AI_SlideNumber_Puzzle_V003.exe.config
+D:\Projects Courses\AI\AI_SlideNumber_Puzzle_V003\AI_SlideNumber_Puzzle_V003\bin\Debug\AI_SlideNumber_Puzzle_V003.exe
+D:\Projects Courses\AI\AI_SlideNumber_Puzzle_V003\AI_SlideNumber_Puzzle_V003\bin\Debug\AI_SlideNumber_Puzzle_V003.pdb
+D:\Projects Courses\AI\AI_SlideNumber_Puzzle_V003\AI_SlideNumber_Puzzle_V003\obj\Debug\AI_SlideNumber_Puzzle_V003.csprojResolveAssemblyReference.cache
+D:\Projects Courses\AI\AI_SlideNumber_Puzzle_V003\AI_SlideNumber_Puzzle_V003\obj\Debug\AI_SlideNumber_Puzzle_V003.Form1.resources
+D:\Projects Courses\AI\AI_SlideNumber_Puzzle_V003\AI_SlideNumber_Puzzle_V003\obj\Debug\AI_SlideNumber_Puzzle_V003.Properties.Resources.resources
+D:\Projects Courses\AI\AI_SlideNumber_Puzzle_V003\AI_SlideNumber_Puzzle_V003\obj\Debug\AI_SlideNumber_Puzzle_V003.csproj.GenerateResource.Cache
+D:\Projects Courses\AI\AI_SlideNumber_Puzzle_V003\AI_SlideNumber_Puzzle_V003\obj\Debug\AI_SlideNumber_Puzzle_V003.exe
+D:\Projects Courses\AI\AI_SlideNumber_Puzzle_V003\AI_SlideNumber_Puzzle_V003\obj\Debug\AI_SlideNumber_Puzzle_V003.pdb
